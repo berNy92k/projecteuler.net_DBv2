@@ -8,6 +8,9 @@ package projectEuler.till20;
 //
 // How many such routes are there through a 20×20 grid?
 
+// solution:
+// n! / k!(n-k)!
+
 import java.math.BigInteger;
 
 public class Problem15 {
